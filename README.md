@@ -1,5 +1,11 @@
 # Meryl’s SAT Studio
 
+## Convenience screen lock
+
+The entry page now asks for the three requested answers before loading the study scripts. Incorrect answers keep the app hidden; the third field has no visible label or placeholder. A successful unlock lasts for the current tab session. The header's Lock button clears that session and returns to the empty form. Existing study progress uses its original storage key and is preserved.
+
+This is a client-side screen lock, not authentication or private hosting. Answers are readable in `screen-lock.js`, and static files remain accessible directly. No verification emails are sent. Making a GitHub repository private does not turn a public Pages website into an authenticated private website.
+
 ## Practice Tests and saved words
 
 Selecting a specific test now opens the text test player (`test-player.js`). It uses all available typed questions in source section/module/number order, with Back, flags, an answer review grid, and explicit final submission. Correctness, answers, XP, and mistake entries appear only after submission. Answers and flags resume from a separate browser-local test draft. Results give raw accuracy, not a simulated SAT scaled score. Short mixed practices retain immediate feedback.

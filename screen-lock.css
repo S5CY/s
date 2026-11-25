@@ -1,0 +1,12 @@
+[hidden]{display:none!important}
+.screen-locked{min-height:100vh;background:#fff}
+.screen-lock{min-height:100dvh;display:flex;align-items:center;justify-content:center;padding:32px 24px}
+.unlock-form{width:100%;max-width:360px;display:grid;gap:20px}
+.lock-mark{display:grid;place-items:center;width:48px;height:48px;border-radius:14px;background:#4e7fd3;color:#fff;font-size:29px;font-weight:750}
+.unlock-form h1{font-size:28px;letter-spacing:-.04em;margin:4px 0 8px}
+.unlock-form label{display:grid;gap:8px;font-size:16px;font-weight:550}
+.unlock-form input{width:100%;padding:13px 14px;font:inherit;border:1px solid #d8e1ed;border-radius:10px;background:#fff;color:#172a43;min-height:49px}
+.unlock-form input:focus{outline:3px solid #e3edff;border-color:#5482cf}
+.unlock-form button{min-height:49px;font-size:17px}
+#unlock-message{min-height:24px;margin:0;color:#9b3d3d;font-size:15px}
+.screen-lock noscript{position:absolute;bottom:25px;text-align:center}
