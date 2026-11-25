@@ -1,5 +1,13 @@
 # Meryl’s SAT Studio
 
+## Practice test archive and saved words
+
+The Practice test archive (`#/archives`) preserves the supplied Archive01–Archive09 documents as compressed page scans. Browse by folder, title, or document type; open any page; keep answers and working notes; and select a source answer document for checking. Documents are not automatically paired and scanned questions are not auto-graded. Multiple questions on one original page remain together to preserve passages, tables, diagrams, and answer choices.
+
+Use **Save an unknown word from this question** in a built-in question or archive page. A word or phrase can be typed, with optional English and Chinese meanings. Existing vocabulary is marked unknown; new words join the collection and are included in progress exports. Their question context is retained. Edit a new word’s meaning in the Word library. The site uses the same existing local-storage key, preserving prior vocabulary progress.
+
+Built-in sessions now select distinct questions and shorten the session if fewer questions match. Mistakes are queued for later review rather than replacing the next question. The additional English drills live in `extra-practice.js`; the scan library lives in `archive-data.js`, `study-library.js`, `library.css`, and `archive-pages/`.
+
 A white, pastel-blue, static SAT study app. Open `index.html` directly, or run `python3 -m http.server 8000` in this directory and visit `http://localhost:8000/#/home`.
 
 No build, packages, API key, or account required. Source: `index.html`, `style.css`, `content.js`, `app.js`. `.nojekyll` tells GitHub Pages to serve these files directly.
