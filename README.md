@@ -2,6 +2,10 @@
 
 ## Practice Tests and saved words
 
+Selecting a specific test now opens the text test player (`test-player.js`). It uses all available typed questions in source section/module/number order, with Back, flags, an answer review grid, and explicit final submission. Correctness, answers, XP, and mistake entries appear only after submission. Answers and flags resume from a separate browser-local test draft. Results give raw accuracy, not a simulated SAT scaled score. Short mixed practices retain immediate feedback.
+
+The text parser currently supports 6,953 of the 7,821 matched records. Questions with incomplete choice extraction are left out of text tests; the setup shows the available count. `test-text-repairs.js` restores blank positions from source OCR coordinates. This is extracted text, not a fully manually proofread transcription. Math symbols, poems, tables, and diagrams may still need source checking; the original reference is collapsed by default and remains accessible during a test. Answer-key scans appear only in the submitted result review.
+
 Practice Tests (`#/archives`) groups the supplied Archive01–Archive09 papers by year (2023–2026), month, and version. All 7,338 unique source pages were processed locally. The bank contains 7,821 individual questions with matching supplied key entries across 122 test versions. Short practices use this bank by default, put unseen questions first, and avoid duplicate question fingerprints within a session. Choose a test version and “All matching questions” to work through its extracted questions.
 
 Question images preserve the source wording and diagrams; answer letters keep their original order. Numerical answers accept fractions and equivalent decimals. After grading, the matched key crop and links to both source pages appear. The original files remain accessible. The C-format June 2025 paper has separate monochrome practice images to remove its green answer highlights. Extracted text is optional and may contain OCR errors.
