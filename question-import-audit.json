@@ -1,0 +1,1458 @@
+{
+  "questions": 7821,
+  "tests": 122,
+  "ocrPages": 7338,
+  "details": [
+    {
+      "test": "2023年3月（只有阅读语法）.pdf",
+      "id": "2d7051eeccf869983105",
+      "detected": 51,
+      "matched": 51,
+      "unmatched": {},
+      "keys": [
+        "2023年3月（只有阅读语法）-答案 .pdf"
+      ]
+    },
+    {
+      "test": "2023年5月（只有阅读语法）.pdf",
+      "id": "e4aa2bf7cc84bd459d9d",
+      "detected": 38,
+      "matched": 38,
+      "unmatched": {},
+      "keys": [
+        "2023年5月（只有阅读语法）-答案.pdf"
+      ]
+    },
+    {
+      "test": "2023年6⽉第1套（只有阅读语法）.pdf",
+      "id": "30b1f922f449f75c156f",
+      "detected": 54,
+      "matched": 54,
+      "unmatched": {},
+      "keys": [
+        "2023年6⽉第1套（只有阅读语法）-答案.pdf"
+      ]
+    },
+    {
+      "test": "2023年6⽉第2套.pdf",
+      "id": "cd3b68f67b6e4152f590",
+      "detected": 46,
+      "matched": 46,
+      "unmatched": {},
+      "keys": [
+        "2023年6⽉第2套 答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2023年6⽉第3套.pdf",
+      "id": "0bc19487d324acdf60bd",
+      "detected": 54,
+      "matched": 53,
+      "unmatched": {
+        "no aligned key": 1
+      },
+      "keys": [
+        "2023年6⽉第3套 答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2023年6月1&2&3数学.pdf",
+      "id": "0adb2245557bb5cd6a2c",
+      "detected": 43,
+      "matched": 38,
+      "unmatched": {
+        "no aligned key": 3,
+        "conflicting key entries": 2
+      },
+      "keys": [
+        "2023年6月1&2&3数学 答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2023年10月第1套.pdf",
+      "id": "1f6df74552a5c742db79",
+      "detected": 75,
+      "matched": 73,
+      "unmatched": {
+        "no aligned key": 2
+      },
+      "keys": [
+        "2023年10月第1套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2023年10月第2套（缺题较多）.pdf",
+      "id": "e01785cf93a09daac7b6",
+      "detected": 31,
+      "matched": 29,
+      "unmatched": {
+        "no aligned key": 2
+      },
+      "keys": [
+        "2023年10月第2套答案解析(缺题较多).pdf"
+      ]
+    },
+    {
+      "test": "2023年11月第1套.pdf",
+      "id": "90b0ca57052515cdaf73",
+      "detected": 97,
+      "matched": 97,
+      "unmatched": {},
+      "keys": [
+        "2023年11月第1套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2023年11月第2套.pdf",
+      "id": "5bd20eabf5fbe8167625",
+      "detected": 94,
+      "matched": 80,
+      "unmatched": {
+        "conflicting key entries": 12,
+        "no aligned key": 2
+      },
+      "keys": [
+        "2023年11月第2套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2023年11月第3套.pdf",
+      "id": "612535bcf308c1d82f3d",
+      "detected": 95,
+      "matched": 88,
+      "unmatched": {
+        "no aligned key": 2,
+        "duplicate identifier": 5
+      },
+      "keys": [
+        "2023年11月第3套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2023年11月第4套.pdf",
+      "id": "9d3e6ef56bb2971e1fe5",
+      "detected": 19,
+      "matched": 19,
+      "unmatched": {},
+      "keys": [
+        "2023年11月第4套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2023年11月第五套.pdf",
+      "id": "b493a89f816d3567ac68",
+      "detected": 97,
+      "matched": 92,
+      "unmatched": {
+        "no aligned key": 4,
+        "duplicate identifier": 1
+      },
+      "keys": [
+        "2023年11月第五套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2023年12月第3套.pdf",
+      "id": "991a37ac6efa87cce9cb",
+      "detected": 97,
+      "matched": 93,
+      "unmatched": {
+        "no aligned key": 4
+      },
+      "keys": [
+        "2023年12月第3套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2023年12月第4套.pdf",
+      "id": "c1378b00ceea867aaa58",
+      "detected": 95,
+      "matched": 93,
+      "unmatched": {
+        "no aligned key": 2
+      },
+      "keys": [
+        "2023年12月第4套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2023年12月第5套（没有数学）.pdf",
+      "id": "a6bad9e09427f7ac7d48",
+      "detected": 54,
+      "matched": 54,
+      "unmatched": {},
+      "keys": [
+        "2023年12月第5套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2023年12月第一套.pdf",
+      "id": "bdd3b8629bd6600045ca",
+      "detected": 97,
+      "matched": 73,
+      "unmatched": {
+        "conflicting key entries": 2,
+        "no aligned key": 1,
+        "duplicate identifier": 21
+      },
+      "keys": [
+        "2023年12月第一套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2023年12月第二套.pdf",
+      "id": "fd6740e060e99f582279",
+      "detected": 94,
+      "matched": 88,
+      "unmatched": {
+        "conflicting key entries": 2,
+        "no aligned key": 4
+      },
+      "keys": [
+        "2023年12月第二套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024-10月北美A卷--.pdf",
+      "id": "a5dc7f13ce7381074848",
+      "detected": 97,
+      "matched": 91,
+      "unmatched": {
+        "no aligned key": 6
+      },
+      "keys": [
+        "2024-10月北美A卷答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年3月第一套.pdf",
+      "id": "0745ed90883da9b171dc",
+      "detected": 96,
+      "matched": 89,
+      "unmatched": {
+        "conflicting key entries": 3,
+        "no aligned key": 4
+      },
+      "keys": [
+        "2024年3月第一套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年3月第三套.pdf",
+      "id": "f7ad84981754dc3455d5",
+      "detected": 98,
+      "matched": 82,
+      "unmatched": {
+        "conflicting key entries": 13,
+        "no aligned key": 3
+      },
+      "keys": [
+        "2024年3月第三套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年3月第二套.pdf",
+      "id": "c8888eb2a42ef6aa9011",
+      "detected": 98,
+      "matched": 90,
+      "unmatched": {
+        "no aligned key": 8
+      },
+      "keys": [
+        "2024年3月第二套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年3月第四套.pdf",
+      "id": "59708d806e9ae433ec51",
+      "detected": 54,
+      "matched": 54,
+      "unmatched": {},
+      "keys": [
+        "2024年3月第四套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年5⽉第1套.pdf",
+      "id": "0654fd96afe6bb5da13a",
+      "detected": 96,
+      "matched": 92,
+      "unmatched": {
+        "no aligned key": 4
+      },
+      "keys": [
+        "2024年5⽉第1套 答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年5⽉第2套.pdf",
+      "id": "3c8ded6b88896fe790a5",
+      "detected": 68,
+      "matched": 67,
+      "unmatched": {
+        "no aligned key": 1
+      },
+      "keys": [
+        "2024年5⽉第2套 答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年5⽉第3套（阅读部分只有21题） .pdf",
+      "id": "160c0fa0d8d8f97cd31a",
+      "detected": 64,
+      "matched": 63,
+      "unmatched": {
+        "no aligned key": 1
+      },
+      "keys": [
+        "2024年5⽉第3套答案解析 .pdf"
+      ]
+    },
+    {
+      "test": "2024年6⽉第1套.pdf",
+      "id": "58974cbb1303d2fdbab8",
+      "detected": 95,
+      "matched": 29,
+      "unmatched": {
+        "no aligned key": 27,
+        "conflicting key entries": 39
+      },
+      "keys": [
+        "2024年6⽉第1套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年6⽉第2套.pdf",
+      "id": "69fc5d85ada92555d2c3",
+      "detected": 97,
+      "matched": 89,
+      "unmatched": {
+        "no aligned key": 8
+      },
+      "keys": [
+        "2024年6⽉第2套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年6月第3套 （只有阅读语法）.pdf",
+      "id": "af9e3c16c939e46bb542",
+      "detected": 54,
+      "matched": 53,
+      "unmatched": {
+        "no aligned key": 1
+      },
+      "keys": [
+        "2024年6月第3套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年6月第4套.pdf",
+      "id": "85a08f34f5795e79c08a",
+      "detected": 83,
+      "matched": 80,
+      "unmatched": {
+        "no aligned key": 3
+      },
+      "keys": [
+        "2024年6月第4套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年6月第5套.pdf",
+      "id": "a0f3495ca86753f41067",
+      "detected": 97,
+      "matched": 91,
+      "unmatched": {
+        "conflicting key entries": 2,
+        "duplicate identifier": 4
+      },
+      "keys": [
+        "2024年6月第5套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年8月第一套【亚太A】答案解析.pdf",
+      "id": "6c9ee6818753cb45663a",
+      "detected": 96,
+      "matched": 61,
+      "unmatched": {
+        "conflicting key entries": 15,
+        "duplicate identifier": 20
+      },
+      "keys": [
+        "2024年8月第一套.pdf"
+      ]
+    },
+    {
+      "test": "2024年8月第三套【亚太C】.pdf",
+      "id": "e2cbdaa0257cb628d6c9",
+      "detected": 97,
+      "matched": 89,
+      "unmatched": {
+        "conflicting key entries": 8
+      },
+      "keys": [
+        "2024年8月第三套.pdf"
+      ]
+    },
+    {
+      "test": "2024年8月第二套 亚太B&北美D.pdf",
+      "id": "5f35ff4fdbd988d36dd0",
+      "detected": 84,
+      "matched": 80,
+      "unmatched": {
+        "no aligned key": 4
+      },
+      "keys": [
+        "2024年8月第二套 答案解析 亚太B&北美D.pdf"
+      ]
+    },
+    {
+      "test": "2024年8月第五套【北美B】.pdf",
+      "id": "71292e3d84eab9027673",
+      "detected": 99,
+      "matched": 89,
+      "unmatched": {
+        "no aligned key": 8,
+        "duplicate identifier": 2
+      },
+      "keys": [
+        "2024年8月第五套 【北美B】.pdf"
+      ]
+    },
+    {
+      "test": "2024年8月第六套【北美C】.pdf",
+      "id": "d90c6b5c96be599ea4e2",
+      "detected": 54,
+      "matched": 49,
+      "unmatched": {
+        "conflicting key entries": 5
+      },
+      "keys": [
+        "2024年8月第六套 答案解析 【北美C】.pdf"
+      ]
+    },
+    {
+      "test": "2024年8月第四套【北美A】.pdf",
+      "id": "bf7ee8c0363f2e88ae56",
+      "detected": 98,
+      "matched": 82,
+      "unmatched": {
+        "no aligned key": 2,
+        "conflicting key entries": 14
+      },
+      "keys": [
+        "2024年8月第四套 答案解析 【北美A】.pdf"
+      ]
+    },
+    {
+      "test": "2024年10月SAT亚太A.pdf",
+      "id": "08aa28dc2d4befdd295f",
+      "detected": 97,
+      "matched": 94,
+      "unmatched": {
+        "no aligned key": 3
+      },
+      "keys": [
+        "2024年10月SAT亚太A答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年10月SAT亚太B.pdf",
+      "id": "b6ed774a1435e069892c",
+      "detected": 96,
+      "matched": 93,
+      "unmatched": {
+        "conflicting key entries": 1,
+        "no aligned key": 2
+      },
+      "keys": [
+        "2024年10月SAT亚太B 答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年10月亚太C.pdf",
+      "id": "ff34f22232bd925c8d7b",
+      "detected": 96,
+      "matched": 94,
+      "unmatched": {
+        "no aligned key": 2
+      },
+      "keys": [
+        "2024年10月亚太C答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年10月北美B.pdf",
+      "id": "b8f64562f97b2e7ecf25",
+      "detected": 97,
+      "matched": 56,
+      "unmatched": {
+        "conflicting key entries": 16,
+        "no aligned key": 3,
+        "duplicate identifier": 22
+      },
+      "keys": [
+        "2024年10月北美B答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年10月北美C卷.pdf",
+      "id": "a5830ff5dde651991cfd",
+      "detected": 43,
+      "matched": 40,
+      "unmatched": {
+        "no aligned key": 3
+      },
+      "keys": [
+        "2024年10月北美C卷答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年10月北美D+E.pdf",
+      "id": "32984a81ec37048a0d63",
+      "detected": 99,
+      "matched": 92,
+      "unmatched": {
+        "conflicting key entries": 3,
+        "duplicate identifier": 4
+      },
+      "keys": [
+        "2024年10月北美D+E 答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年11月第1套【亚太A】.pdf",
+      "id": "04f3adff070a5d3f65a4",
+      "detected": 98,
+      "matched": 93,
+      "unmatched": {
+        "no aligned key": 4,
+        "conflicting key entries": 1
+      },
+      "keys": [
+        "2024年11月第1套 答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年11月第2套【亚太B】.pdf",
+      "id": "625b9a9fd933071903ed",
+      "detected": 71,
+      "matched": 66,
+      "unmatched": {
+        "conflicting key entries": 3,
+        "no aligned key": 2
+      },
+      "keys": [
+        "2024年11月第2套 答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年11月第3套【亚太C】.pdf",
+      "id": "c2c3fb00d3bb921ece06",
+      "detected": 75,
+      "matched": 73,
+      "unmatched": {
+        "no aligned key": 2
+      },
+      "keys": [
+        "2024年11月第3套 答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年11月第4套【亚太D】.pdf",
+      "id": "b3318c29864c956a1f00",
+      "detected": 27,
+      "matched": 27,
+      "unmatched": {},
+      "keys": [
+        "2024年11月第4套 答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年11月第5套【北美A】.pdf",
+      "id": "52b8fbe04e8c58d893a8",
+      "detected": 97,
+      "matched": 95,
+      "unmatched": {
+        "conflicting key entries": 1,
+        "no aligned key": 1
+      },
+      "keys": [
+        "2024年11月第5套 答案解析 【北美A】.pdf"
+      ]
+    },
+    {
+      "test": "2024年11月第6套【北美B】.pdf",
+      "id": "e7cee0c470cde3cdb6ce",
+      "detected": 68,
+      "matched": 68,
+      "unmatched": {},
+      "keys": [
+        "2024年11月第6套 答案解析 【北美B】.pdf"
+      ]
+    },
+    {
+      "test": "2024年12月第7套【北美B】.pdf",
+      "id": "9eda0ad876b2bf41c4e0",
+      "detected": 68,
+      "matched": 65,
+      "unmatched": {
+        "conflicting key entries": 2,
+        "no aligned key": 1
+      },
+      "keys": [
+        "2024年12月第7套 答案解析 【北美B】.pdf"
+      ]
+    },
+    {
+      "test": "2024年12月第一套【亚太A】.pdf",
+      "id": "059880a080542cfd9666",
+      "detected": 89,
+      "matched": 85,
+      "unmatched": {
+        "no aligned key": 4
+      },
+      "keys": [
+        "2024年12月第一套 答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年12月第三套【亚太C】.pdf",
+      "id": "38f10c18eee993e61d51",
+      "detected": 96,
+      "matched": 80,
+      "unmatched": {
+        "conflicting key entries": 14,
+        "no aligned key": 2
+      },
+      "keys": [
+        "2024年12月第三套 答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年12月第八套 【对应北美C】.pdf",
+      "id": "3028ade2104d51b93425",
+      "detected": 64,
+      "matched": 61,
+      "unmatched": {
+        "conflicting key entries": 1,
+        "no aligned key": 2
+      },
+      "keys": [
+        "2024年12月第八套【对应北美C】答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2024年12第6套【北美A】.pdf",
+      "id": "cd035086609ae52b8521",
+      "detected": 93,
+      "matched": 82,
+      "unmatched": {
+        "no aligned key": 11
+      },
+      "keys": [
+        "2024年12第6套 答案解析 【北美A】.pdf"
+      ]
+    },
+    {
+      "test": "2025.11-US-排版_.pdf",
+      "id": "3f043a72d43f244d7cb2",
+      "detected": 48,
+      "matched": 48,
+      "unmatched": {},
+      "keys": [
+        "2025.11-US-答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025_10月第1套题目.pdf",
+      "id": "49db26a967dd5ae47618",
+      "detected": 95,
+      "matched": 93,
+      "unmatched": {
+        "no aligned key": 2
+      },
+      "keys": [
+        "2025_10月第1套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025_11月SAT北美题目文本.pdf",
+      "id": "07bb2ee793354efd4523",
+      "detected": 17,
+      "matched": 17,
+      "unmatched": {},
+      "keys": [
+        "2025_11月SAT北美答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年3月北美A（第6套）题目.pdf",
+      "id": "e962c132c6d71643e7ba",
+      "detected": 90,
+      "matched": 85,
+      "unmatched": {
+        "no aligned key": 2,
+        "duplicate identifier": 3
+      },
+      "keys": [
+        "2025年3月北美A（第6套）答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年3月第1套（亚太A）真题.pdf",
+      "id": "47fac1ccfb66e03d3ff2",
+      "detected": 88,
+      "matched": 85,
+      "unmatched": {
+        "conflicting key entries": 2,
+        "no aligned key": 1
+      },
+      "keys": [
+        "2025年3月第1套（亚太A）答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年3月第2套（亚太B）题目.pdf",
+      "id": "4e6a122c8151f3c46ea1",
+      "detected": 96,
+      "matched": 95,
+      "unmatched": {
+        "no aligned key": 1
+      },
+      "keys": [
+        "2025年3月第2套（亚太B）答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年3月第3套（亚太C）.pdf",
+      "id": "590678bb94efdbaa6df8",
+      "detected": 51,
+      "matched": 44,
+      "unmatched": {
+        "conflicting key entries": 4,
+        "no aligned key": 3
+      },
+      "keys": [
+        "2025年3月第3套（亚太C）答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年3月第4套（亚太D）题目.pdf",
+      "id": "fd5afab96c1a4f3a2ca5",
+      "detected": 38,
+      "matched": 36,
+      "unmatched": {
+        "no aligned key": 2
+      },
+      "keys": [
+        "2025年3月第4套（亚太D）答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年3月第5套（亚太E）.pdf",
+      "id": "bcabd80c383aebcde31f",
+      "detected": 11,
+      "matched": 11,
+      "unmatched": {},
+      "keys": [
+        "2025年3月第5套（亚太E）答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年3月第7套（北美B）真题.pdf",
+      "id": "ab1df71709731448f258",
+      "detected": 91,
+      "matched": 87,
+      "unmatched": {
+        "conflicting key entries": 1,
+        "no aligned key": 3
+      },
+      "keys": [
+        "2025年3月第7套（北美B）答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年3月第8套（北美C）题目.pdf",
+      "id": "9448b637bdc1eef462db",
+      "detected": 56,
+      "matched": 54,
+      "unmatched": {
+        "no aligned key": 2
+      },
+      "keys": [
+        "2025年3月第8套（北美C）答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年5月亚太B（阅读语法重复亚太A）.pdf",
+      "id": "e1fe4b14b0091dbfbbd3",
+      "detected": 44,
+      "matched": 44,
+      "unmatched": {},
+      "keys": [
+        "2025年5月亚太B 答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年5月第1套【亚太部分】试题.pdf",
+      "id": "df77c2e352d88a8bd56b",
+      "detected": 49,
+      "matched": 49,
+      "unmatched": {},
+      "keys": [
+        "2025年5月第1套 答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年5月第2套【亚太A】.pdf",
+      "id": "1716bc46213ceb1c058b",
+      "detected": 96,
+      "matched": 94,
+      "unmatched": {
+        "no aligned key": 2
+      },
+      "keys": [
+        "2025年5月第2套 答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年5月第4套阅读语法 北美.pdf",
+      "id": "a19fd6c917cadc261d68",
+      "detected": 51,
+      "matched": 48,
+      "unmatched": {
+        "no aligned key": 3
+      },
+      "keys": [
+        "2025年5月第4套阅读语法答案解析 北美.pdf"
+      ]
+    },
+    {
+      "test": "2025年6月第1套亚太A（只有阅读语法，无数学）.pdf",
+      "id": "889f45e179f1b2925501",
+      "detected": 54,
+      "matched": 33,
+      "unmatched": {
+        "no aligned key": 1,
+        "conflicting key entries": 20
+      },
+      "keys": [
+        "2025年6月第1套亚太A答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年6月第2套（亚太B）.pdf",
+      "id": "21f57746d6a250831fb4",
+      "detected": 98,
+      "matched": 93,
+      "unmatched": {
+        "no aligned key": 5
+      },
+      "keys": [
+        "2025年6月第2套（亚太B）答案解析 .pdf"
+      ]
+    },
+    {
+      "test": "2025年6月第3套（北美）题目.pdf",
+      "id": "948bd1a437936420237c",
+      "detected": 98,
+      "matched": 95,
+      "unmatched": {
+        "conflicting key entries": 2,
+        "no aligned key": 1
+      },
+      "keys": [
+        "2025年6月第3套（北美）答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年10月SAT亚太第3套阅读语法.pdf",
+      "id": "f19644a8af94f666a99f",
+      "detected": 17,
+      "matched": 12,
+      "unmatched": {
+        "conflicting key entries": 5
+      },
+      "keys": [
+        "2025年10月SAT亚太第3套阅读语法答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年10月亚太第2套.pdf",
+      "id": "4227c2ade3b647c638b0",
+      "detected": 94,
+      "matched": 93,
+      "unmatched": {
+        "no aligned key": 1
+      },
+      "keys": [
+        "2025年10月亚太第2套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年10月北美第1套题目.pdf",
+      "id": "d21fa2492448c9b259e3",
+      "detected": 88,
+      "matched": 88,
+      "unmatched": {},
+      "keys": [
+        "2025年10月北美第1套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年10月北美第2套数学.pdf",
+      "id": "e8874c064927bb83882f",
+      "detected": 43,
+      "matched": 40,
+      "unmatched": {
+        "no aligned key": 3
+      },
+      "keys": [
+        "2025年10月北美第2套数学答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年8月第1套真题排版.pdf",
+      "id": "30472c42576a7fc0f79a",
+      "detected": 98,
+      "matched": 94,
+      "unmatched": {
+        "no aligned key": 4
+      },
+      "keys": [
+        "2025年8月第1套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年8月第2套（只有阅读语法M1，M2和第一套重复）.pdf",
+      "id": "de1ca88547c29f046f3c",
+      "detected": 25,
+      "matched": 25,
+      "unmatched": {},
+      "keys": [
+        "2025年8月第2套阅读语法M1-答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年8月第3套阅读语法（北美A）.pdf",
+      "id": "bc37934652d2a8cee541",
+      "detected": 52,
+      "matched": 48,
+      "unmatched": {
+        "no aligned key": 4
+      },
+      "keys": [
+        "2025年8月第3套阅读语法答案解析（北美A）.pdf"
+      ]
+    },
+    {
+      "test": "2025年8月第4套阅读语法（M1和M2合并版，重题较多）-北美B.pdf",
+      "id": "2f313f86780503571b01",
+      "detected": 27,
+      "matched": 26,
+      "unmatched": {
+        "no aligned key": 1
+      },
+      "keys": [
+        "2025年8月第4套阅读语法M1&2合并版答案解析-北美B.pdf"
+      ]
+    },
+    {
+      "test": "2025年9月第1套题目（对应亚太A）.pdf",
+      "id": "086d9ff7523cead70a4d",
+      "detected": 97,
+      "matched": 88,
+      "unmatched": {
+        "conflicting key entries": 3,
+        "no aligned key": 6
+      },
+      "keys": [
+        "2025年9月第1套题目答案解析（对应亚太A）.pdf"
+      ]
+    },
+    {
+      "test": "2025年9月第2套（对应亚太B 数学去重版剩M2）.pdf",
+      "id": "ded888941591136c9ce0",
+      "detected": 70,
+      "matched": 69,
+      "unmatched": {
+        "no aligned key": 1
+      },
+      "keys": [
+        "2025年9月第2套答案解析（对应亚太B 数学去重版剩M2）.pdf"
+      ]
+    },
+    {
+      "test": "2025年9月第3套题目（对应北美A）.pdf",
+      "id": "deb859d8b1726f9a1537",
+      "detected": 94,
+      "matched": 92,
+      "unmatched": {
+        "conflicting key entries": 1,
+        "no aligned key": 1
+      },
+      "keys": [
+        "2025年9月第3套题目答案解析（对应北美A）.pdf.pdf"
+      ]
+    },
+    {
+      "test": "2025年9月第4套（阅读语法是北美B+C合并去重版，数学是北美B全套）.pdf",
+      "id": "33c6272128995e4b121d",
+      "detected": 95,
+      "matched": 94,
+      "unmatched": {
+        "no aligned key": 1
+      },
+      "keys": [
+        "2025年9月第4套答案解析（阅读语法是北美B+C合并去重版，数学是北美B全套）--MATH_.pdf",
+        "2025年9月第4套答案解析（阅读语法是北美B+C合并去重版，数学是北美B全套）--阅读文法.pdf"
+      ]
+    },
+    {
+      "test": "2025年9月第5套数学（对应北美F-去重版）.pdf",
+      "id": "988e0048aa03fc968c02",
+      "detected": 25,
+      "matched": 24,
+      "unmatched": {
+        "no aligned key": 1
+      },
+      "keys": [
+        "2025年9月第5套数学答案解析(对应北美F-去重版）.pdf"
+      ]
+    },
+    {
+      "test": "2025年11月亚太第1套-题目.pdf",
+      "id": "171429a9ff70b295d1f9",
+      "detected": 97,
+      "matched": 95,
+      "unmatched": {
+        "no aligned key": 2
+      },
+      "keys": [
+        "2025年11月亚太第1套-答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年11月亚太第2套-题目.pdf",
+      "id": "fdc32472befc9e668575",
+      "detected": 81,
+      "matched": 78,
+      "unmatched": {
+        "no aligned key": 3
+      },
+      "keys": [
+        "2025年11月第2套-答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年11月亚太第3套-题目.pdf",
+      "id": "8fe9ea4ca609ff38ef99",
+      "detected": 92,
+      "matched": 92,
+      "unmatched": {},
+      "keys": [
+        "2025年11月第3套-答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年11月北美第1套数学-题目文本.pdf",
+      "id": "f62145a9b92b7d0dfa1c",
+      "detected": 43,
+      "matched": 32,
+      "unmatched": {
+        "no aligned key": 3,
+        "conflicting key entries": 8
+      },
+      "keys": [
+        "2025年11月北美第1套数学-答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年12月亚太第1套数学+阅读语法-题目.pdf",
+      "id": "0189b17b8e2ca5d2f6cd",
+      "detected": 94,
+      "matched": 92,
+      "unmatched": {
+        "no aligned key": 2
+      },
+      "keys": [
+        "2025年12月亚太第1套数学+阅读语法-答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年12月亚太第2&3套阅读.pdf",
+      "id": "214fb5b055545a987744",
+      "detected": 34,
+      "matched": 34,
+      "unmatched": {},
+      "keys": [
+        "2025年12月亚太第2&3套阅读语答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年12月亚太第2套数学题目.pdf",
+      "id": "4d1865cf410045545deb",
+      "detected": 41,
+      "matched": 40,
+      "unmatched": {
+        "conflicting key entries": 1
+      },
+      "keys": [
+        "2025年12月亚太第2套数学答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年12月亚太第3套数学题目文本.pdf",
+      "id": "b21b53826887c56c3de4",
+      "detected": 32,
+      "matched": 30,
+      "unmatched": {
+        "no aligned key": 2
+      },
+      "keys": [
+        "2025年12月亚太第3套数学答案解析 .pdf"
+      ]
+    },
+    {
+      "test": "2025年12月亚太阅读语法第1套M2-Easy-题目文本.pdf",
+      "id": "9428b7f19d4e4d9ff0ab",
+      "detected": 22,
+      "matched": 22,
+      "unmatched": {},
+      "keys": [
+        "2025年12月亚太阅读语法第1套M2-Easy-答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年12月亚太阅读语法第2套M2-Easy-13道题-题目文本.pdf",
+      "id": "d889500eacb38c907693",
+      "detected": 11,
+      "matched": 0,
+      "unmatched": {
+        "no aligned key": 11
+      },
+      "keys": [
+        "2025年12月亚太阅读语法第2套M2-Easy-13道题-答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年12月亚太阅读语法第3套M2-Easy-9道题-题目文本.pdf",
+      "id": "15ad5aa95853b334c71e",
+      "detected": 8,
+      "matched": 7,
+      "unmatched": {
+        "no aligned key": 1
+      },
+      "keys": [
+        "2025年12月亚太阅读语法第3套M2-Easy-9道题-答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年12月北美第1套阅读语法题目文本.pdf",
+      "id": "d7bf3217bb06ada8dc01",
+      "detected": 54,
+      "matched": 54,
+      "unmatched": {},
+      "keys": [
+        "2025年12月北美第1套阅读语法答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年12月北美第2套数学-题目文本.pdf",
+      "id": "e786ee6984b619769f9e",
+      "detected": 43,
+      "matched": 36,
+      "unmatched": {
+        "conflicting key entries": 7
+      },
+      "keys": [
+        "2025年12月北美第2套数学-答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年12月北美第2套阅读语法（只有M1-剩17题）题目文本.pdf",
+      "id": "6b28ea8e1b86da017460",
+      "detected": 17,
+      "matched": 17,
+      "unmatched": {},
+      "keys": [
+        "2025年12月北美第2套阅读语法（只有M1-剩17题）答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年12月北美第3套数学.pdf",
+      "id": "005f097223dbb0c074ed",
+      "detected": 39,
+      "matched": 39,
+      "unmatched": {},
+      "keys": [
+        "2025年12月北美第3套数学答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年12月北美第4套数学-题目文本.pdf",
+      "id": "f6450e0590f751d74be5",
+      "detected": 45,
+      "matched": 35,
+      "unmatched": {
+        "no aligned key": 1,
+        "conflicting key entries": 7,
+        "duplicate identifier": 2
+      },
+      "keys": [
+        "2025年12月北美第4套数学-答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2025年12月北美第一套数学题目.pdf",
+      "id": "9ebb8228351d1ca1a71d",
+      "detected": 30,
+      "matched": 30,
+      "unmatched": {},
+      "keys": [
+        "2025年12月北美第一套数学答案解析.pdf"
+      ]
+    },
+    {
+      "test": "20250607北美A卷.pdf",
+      "id": "dd0dc7a4e99fad41e2e2",
+      "detected": 94,
+      "matched": 93,
+      "unmatched": {
+        "no aligned key": 1
+      },
+      "keys": [
+        "20250607北美A答案.webp"
+      ]
+    },
+    {
+      "test": "20250607北美B卷.pdf",
+      "id": "273eaa82fa6e55731cc0",
+      "detected": 95,
+      "matched": 94,
+      "unmatched": {
+        "no aligned key": 1
+      },
+      "keys": [
+        "20250607北美B答案.webp"
+      ]
+    },
+    {
+      "test": "20250607北美C卷.pdf",
+      "id": "2406720a33a2f24af219",
+      "detected": 98,
+      "matched": 98,
+      "unmatched": {},
+      "keys": [
+        "20250607北美C答案.webp"
+      ]
+    },
+    {
+      "test": "2026_3月第2套SAT真题.pdf",
+      "id": "5138f4e56ed9921b7bdd",
+      "detected": 95,
+      "matched": 91,
+      "unmatched": {
+        "no aligned key": 4
+      },
+      "keys": [
+        "2026_3月第2套答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2026年3月第1套SAT真题.pdf",
+      "id": "06c414c539991938ab0d",
+      "detected": 95,
+      "matched": 87,
+      "unmatched": {
+        "no aligned key": 7,
+        "duplicate identifier": 1
+      },
+      "keys": [
+        "2026年3月第1套SAT真题-答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2026年3月第3套（阅读语法只有19题）-题目文本.pdf",
+      "id": "b067ff425a9636b2c5d1",
+      "detected": 55,
+      "matched": 54,
+      "unmatched": {
+        "no aligned key": 1
+      },
+      "keys": [
+        "2026年3月第3套（阅读语法只有19题）-答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2026年5月第1套-题目文本.pdf",
+      "id": "12b845ed184694dfabfc",
+      "detected": 90,
+      "matched": 86,
+      "unmatched": {
+        "no aligned key": 4
+      },
+      "keys": [
+        "2026年5月第1套-答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2026年5月第2套-题目文本.pdf",
+      "id": "77527386c7ff446f296d",
+      "detected": 91,
+      "matched": 80,
+      "unmatched": {
+        "no aligned key": 9,
+        "conflicting key entries": 2
+      },
+      "keys": [
+        "2026年5月第2套 - 答案解析.pdf"
+      ]
+    },
+    {
+      "test": "2026年5月美东-数学-第3套-去重版 - 题目.pdf",
+      "id": "67f4f27c20a1f0e2a438",
+      "detected": 26,
+      "matched": 26,
+      "unmatched": {},
+      "keys": [
+        "2026年5月美东-数学-第3套- 答案.pdf"
+      ]
+    },
+    {
+      "test": "2025年10月亚太C带解析@Witry分享.pdf",
+      "id": "2657cd7b1c668a4b4e89",
+      "detected": 17,
+      "matched": 17,
+      "unmatched": {},
+      "keys": [
+        "2025年10月亚太C带解析@Witry分享.pdf"
+      ]
+    },
+    {
+      "test": "2025年10月北美B带解析@Witry分享.pdf",
+      "id": "7b4915eef1a29710682b",
+      "detected": 44,
+      "matched": 39,
+      "unmatched": {
+        "no aligned key": 5
+      },
+      "keys": [
+        "2025年10月北美B带解析@Witry分享.pdf"
+      ]
+    },
+    {
+      "test": "2025年8月SAT亚太A@Witry.pdf",
+      "id": "aa237c0e4100ecf59f88",
+      "detected": 95,
+      "matched": 55,
+      "unmatched": {
+        "no aligned key": 4,
+        "conflicting key entries": 15,
+        "duplicate identifier": 21
+      },
+      "keys": [
+        "2025年8月SAT亚太A@Witry.pdf"
+      ]
+    },
+    {
+      "test": "2025年8月SAT亚太B带解析@Witry分享.pdf",
+      "id": "782c17427e8ad8f29503",
+      "detected": 25,
+      "matched": 24,
+      "unmatched": {
+        "no aligned key": 1
+      },
+      "keys": [
+        "2025年8月SAT亚太B带解析@Witry分享.pdf"
+      ]
+    },
+    {
+      "test": "2025年8月SAT北美A带解析@Witry分享.pdf",
+      "id": "7d4c8fad0f8664973cfd",
+      "detected": 52,
+      "matched": 50,
+      "unmatched": {
+        "conflicting key entries": 1,
+        "no aligned key": 1
+      },
+      "keys": [
+        "2025年8月SAT北美A带解析@Witry分享.pdf"
+      ]
+    },
+    {
+      "test": "2025年8月SAT北美B带解析@Witry分享.pdf",
+      "id": "3624fbe2969318c9f55f",
+      "detected": 27,
+      "matched": 25,
+      "unmatched": {
+        "no aligned key": 2
+      },
+      "keys": [
+        "2025年8月SAT北美B带解析@Witry分享.pdf"
+      ]
+    },
+    {
+      "test": "25年11月亚太A带解析@Witry.pdf",
+      "id": "1fe6c754e914f63beaca",
+      "detected": 97,
+      "matched": 86,
+      "unmatched": {
+        "conflicting key entries": 8,
+        "no aligned key": 3
+      },
+      "keys": [
+        "25年11月亚太A带解析@Witry.pdf"
+      ]
+    },
+    {
+      "test": "25年11月亚太B带解析@Witry.pdf",
+      "id": "f870f597a6ae2de1df62",
+      "detected": 81,
+      "matched": 78,
+      "unmatched": {
+        "no aligned key": 3
+      },
+      "keys": [
+        "25年11月亚太B带解析@Witry.pdf"
+      ]
+    },
+    {
+      "test": "25年11月亚太C带解析@Witry.pdf",
+      "id": "a6b4bc28fbcd800a38fe",
+      "detected": 92,
+      "matched": 92,
+      "unmatched": {},
+      "keys": [
+        "25年11月亚太C带解析@Witry.pdf"
+      ]
+    },
+    {
+      "test": "25年6月亚太B带答案解析@Witry分享.pdf",
+      "id": "f1c4586078e57a20408a",
+      "detected": 97,
+      "matched": 92,
+      "unmatched": {
+        "no aligned key": 5
+      },
+      "keys": [
+        "25年6月亚太B带答案解析@Witry分享.pdf"
+      ]
+    },
+    {
+      "test": "25年6月北美A带答案解析@Witry分享.pdf",
+      "id": "7a18ebb8e3a368d728e9",
+      "detected": 98,
+      "matched": 74,
+      "unmatched": {
+        "conflicting key entries": 23,
+        "no aligned key": 1
+      },
+      "keys": [
+        "25年6月北美A带答案解析@Witry分享.pdf"
+      ]
+    }
+  ]
+}

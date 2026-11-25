@@ -1,12 +1,16 @@
 # Meryl’s SAT Studio
 
-## Practice test archive and saved words
+## Practice Tests and saved words
 
-The Practice test archive (`#/archives`) preserves the supplied Archive01–Archive09 documents as compressed page scans. Browse by folder, title, or document type; open any page; keep answers and working notes; and select a source answer document for checking. Documents are not automatically paired and scanned questions are not auto-graded. Multiple questions on one original page remain together to preserve passages, tables, diagrams, and answer choices.
+Practice Tests (`#/archives`) groups the supplied Archive01–Archive09 papers by year (2023–2026), month, and version. All 7,338 unique source pages were processed locally. The bank contains 7,821 individual questions with matching supplied key entries across 122 test versions. Short practices use this bank by default, put unseen questions first, and avoid duplicate question fingerprints within a session. Choose a test version and “All matching questions” to work through its extracted questions.
+
+Question images preserve the source wording and diagrams; answer letters keep their original order. Numerical answers accept fractions and equivalent decimals. After grading, the matched key crop and links to both source pages appear. The original files remain accessible. The C-format June 2025 paper has separate monochrome practice images to remove its green answer highlights. Extracted text is optional and may contain OCR errors.
+
+`question-import-audit.json` reports coverage per test and excludes missing, conflicting, or unaligned key entries from grading. Some recollection papers and keys are incomplete. A test's matched question count is not a claim that its entire original paper was extracted. Topic tags use wording heuristics; select Math or Reading & Writing for broader coverage.
 
 Use **Save an unknown word from this question** in a built-in question or archive page. A word or phrase can be typed, with optional English and Chinese meanings. Existing vocabulary is marked unknown; new words join the collection and are included in progress exports. Their question context is retained. Edit a new word’s meaning in the Word library. The site uses the same existing local-storage key, preserving prior vocabulary progress.
 
-Built-in sessions now select distinct questions and shorten the session if fewer questions match. Mistakes are queued for later review rather than replacing the next question. The additional English drills live in `extra-practice.js`; the scan library lives in `archive-data.js`, `study-library.js`, `library.css`, and `archive-pages/`.
+Sessions shorten if fewer distinct questions match. Mistakes are saved for later review. The original exercises remain available under “Original short drills.” Matched practice lives in `test-question-bank.js`, `question-practice.js`, and `question-practice.css`. Source scans live in `archive-data.js`, `study-library.js`, `library.css`, and `archive-pages/`. Imported attempts store question IDs instead of image/text snapshots to keep progress storage compact.
 
 A white, pastel-blue, static SAT study app. Open `index.html` directly, or run `python3 -m http.server 8000` in this directory and visit `http://localhost:8000/#/home`.
 
@@ -22,6 +26,7 @@ After committing and pushing the files, select Settings → Pages → Deploy fro
 - `#/english?topic=essential`
 - `#/math?topic=geometry`
 - `#/notebook`
+- `#/archives?year=2025&month=6`
 
 Progress is browser-local. Export/import it through settings; a localhost and GitHub Pages URL do not share storage. No commits or pushes are performed by the app.
 
@@ -29,6 +34,6 @@ Progress is browser-local. Export/import it through settings; a localhost and Gi
 
 Vocabulary is transcribed from the supplied 2023–2025 screenshots, deduplicated by word, with clarified English definitions. Personal focus words have additional sentence/synonym/antonym notes. The rest of the library has English definitions and Chinese translations. These are recollection sheets, not an official SAT word list.
 
-Questions are original SAT-style exercises. Math repeats use deterministic number families; English repeats use the built-in bank. There is no live AI generation. Topic mastery is accuracy across the last ten answers, with five attempts needed for 100%. Flashcard schedules are 1, 3, 7, 14, and 30 days; a miss returns in one minute. An unseen word is due immediately.
+Default practices use extracted source questions; original drills are an optional collection. There is no live AI generation. Topic mastery is accuracy across the last ten answers, with five attempts needed for 100%. Vocabulary progress remains under the existing `meryl-sat-studio-v2` storage key.
 
 The provided total (1370) and sections (710 Math / 560 English) do not add up. The dashboard labels that discrepancy, and settings let the student correct it.
